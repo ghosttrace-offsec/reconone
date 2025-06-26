@@ -1,0 +1,36 @@
+{
+  "name": "reconone",
+  "version": "1.0.0",
+  "description": "Automated Domain Reconnaissance SaaS Tool - Powered by Supabash, Supabase, and Vercel",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghosttrace-offsec/reconone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghosttrace-offsec/reconone/issues"
+  },
+  "homepage": "https://github.com/ghosttrace-offsec/reconone#readme",
+  "dependencies": {
+    "next": "^15.3.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
+
+
+}
